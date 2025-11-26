@@ -4,4 +4,6 @@
 *.tfstate.*
 .terraform.lock.hcl
 *.log
-EOF
+terraform.tfvars
+*.tfvars
+*.tfvars.json
